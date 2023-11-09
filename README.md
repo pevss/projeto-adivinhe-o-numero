@@ -1,5 +1,6 @@
 Projeto 1: Adivinhe o Número
 ---
+LINK: https://pevss.github.io/projeto-adivinhe-o-numero/
 
 Nesse projeto, foi criado um jogo onde o jogador tem que acertar um número gerado aleatóriamente. 
 Em cada rodada, o jogador começa com 20 pontos e a cada erro que ele cometer um ponto é subtraido do seu total. Ao acertar o número, o sistema checa se os seus pontos restantes são maiores que "highscore" e caso sejam, "highscore" será esses pontos.
